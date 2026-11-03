@@ -1,0 +1,6 @@
+{
+  "name": "DhakaCart - Classy Online Shopping Dhaka",
+  "description": "DhakaCart is a modern Bangladeshi online store featuring authentic local crafts, textiles, and delicacies with an ethical, explainable local AI recommendation engine in JavaScript and Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
